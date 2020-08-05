@@ -1,0 +1,7 @@
+{
+  "name": "Calcul mental",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
