@@ -20,3 +20,8 @@ Malheureusement, l'application n'est compatible qu'avec peu d'applications. L'ob
 
 Applications compatibles : 
 "Facebook", "Swipe", "Instagram", "Snapchat", "UpDay", "Amazon", "Outlook", "Discord", "Candy Crush", "Flipboard", "Gmail", "Youtube"
+
+
+
+<img src="https://raw.githubusercontent.com/Aldric-L/CalculMental/master/public/assets/icon/screens.png" />
+
