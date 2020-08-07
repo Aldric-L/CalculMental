@@ -2,7 +2,7 @@
 
 
 # Calcul Mental
-Application mobile android pour s'entraîner au calcul mental. Cette dernière a pour but de s'entraîner aux opérations élementaires et à l'intégration puisqu'elle comporte aussi des calculs (simples, de cours) afin de s'entraîner et de mieux connaitre les formules d'intégration.
+Application mobile android pour s'entraîner au calcul mental. Cette dernière a pour but de s'entraîner aux opérations élementaires et à l'intégration puisqu'elle comporte aussi des calculs de primitives afin de mieux connaitre les formules d'intégration.
 Elle est donc parfaitement adaptée pour l'entraînement au calcul de tête en vue d'une entrée dans l'enseignement supérieur.
 
 **Cette application est un projet sans but lucratif et OpenSources. Elle ne comporte donc AUCUNE publicité.**
