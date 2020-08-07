@@ -23,5 +23,5 @@ Applications compatibles :
 
 
 
-<img src="https://raw.githubusercontent.com/Aldric-L/CalculMental/master/public/assets/icon/screens.png" />
+<img src="https://raw.githubusercontent.com/Aldric-L/CalculMental/master/public/assets/icon/Screens.png" />
 
