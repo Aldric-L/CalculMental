@@ -18,6 +18,10 @@ Elle comporte un mode simple qui a pour but d'enchaîner les calculs selon les p
 Elle comporte un mode "lanceur", plus ludique, qui consiste en la réalisation de cinq calculs rapides (selon les mêmes probabilités) en l'échange de l'ouverture d'une application d'amusement sur le telephone (ex: Facebook, Instagram, Candy Crush,...).
 L'objectif de l'application est donc de pratiquer de la manière la plus ludique qu'il soit le calcul mental.
 
+## Installation
+L'installation est très simple. Téléchargez le fichier depuis un téléphone android. Ouvrez-le. L'installateur automatique démarre. L'opération n'est pas différente que pour les opérations du Play Store (qui elles, sont, à majorité, à but lucratif).
+
+
 ### Objectifs et compatibilité
 Malheureusement, l'application n'est compatible qu'avec peu d'applications. L'objectif est d'un jour permettre à l'utilisateur d'ajouter des applis compatible. _Pour le moment, vous pouvez utiliser les issues pour qu'une application soit rajoutée._
 
