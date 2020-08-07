@@ -1,3 +1,4 @@
+![CalculMental-logo](https://raw.githubusercontent.com/Aldric-L/CalculMental/master/public/assets/icon/splash.png)
 # Calcul Mental
 Application mobile android pour s'entraîner au calcul mental. Cette dernière a pour but de s'entraîner aux opérations élementaires et à l'intégration puisqu'elle comporte aussi des calculs (simples, de cours) afin de s'entraîner et de mieux connaitre les formules d'intégration.
 Elle est donc parfaitement adaptée pour l'entraînement au calcul de tête en vue d'une entrée dans l'enseignement supérieur.
