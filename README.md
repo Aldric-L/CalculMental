@@ -7,6 +7,8 @@ Elle est donc parfaitement adaptée pour l'entraînement au calcul de tête en v
 
 **Cette application est un projet sans but lucratif et OpenSources. Elle ne comporte donc AUCUNE publicité.**
 
+**Téléchargement : https://github.com/Aldric-L/CalculMental/releases/download/v1.0-beta/app-release.apk**
+
 ## Fonctions
 Elle comporte un mode simple qui a pour but d'enchaîner les calculs selon les probabilités suivantes :
 - 20% des calculs sont des calculs d'intégration
