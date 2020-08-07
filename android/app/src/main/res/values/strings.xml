@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Calcul mental</string>
+    <string name="title_activity_main">Calcul mental</string>
+    <string name="package_name">fr.aldric.calculmental</string>
+    <string name="custom_url_scheme">fr.aldric.calculmental</string>
+</resources>
