@@ -25,11 +25,14 @@ L'installation est très simple. Téléchargez le fichier depuis un téléphone 
 ### Objectifs et compatibilité
 Malheureusement, l'application n'est compatible qu'avec peu d'applications. L'objectif est d'un jour permettre à l'utilisateur d'ajouter des applis compatible. _Pour le moment, vous pouvez utiliser les issues pour qu'une application soit rajoutée._
 
+Applications compatibles : 
+"Facebook", "Swipe", "Instagram", "Snapchat", "UpDay", "Amazon", "Outlook", "Discord", "Candy Crush", "Flipboard", "Gmail", "Youtube"
+
+
+
 ### Développement
 Cette application est créée avec Ionic 4 et le framework JS ReactJS (ainsi qu'avec Capacitor et non Cordova).
 
-Applications compatibles : 
-"Facebook", "Swipe", "Instagram", "Snapchat", "UpDay", "Amazon", "Outlook", "Discord", "Candy Crush", "Flipboard", "Gmail", "Youtube"
 
 ## Screenshots 
 
